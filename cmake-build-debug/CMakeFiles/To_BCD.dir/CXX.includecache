@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/victorsmits/Dropbox/ECAM/BAC3/Electronique numérique/Programmation C/C/To_BCD/main.cpp
+iostream
+-
+
